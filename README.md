@@ -134,9 +134,9 @@ For an up-to-date list of known issues, please click [here](https://github.com/R
 
 <a name="leavingFeedback"></a>
 
-Leaving feedback
+Faire un retour d'expérience
 ================
 
-We'd love to hear your thoughts! If you have any feedback, or if you've spotted a bug, please let us know through GitHub's [issue reports](https://github.com/RealVNC/raspi-preview/issues) page. You can also tweet us [@RealVNC](https://twitter.com/RealVNC) or email us at [raspi@realvnc.com](mailto:raspi@realvnc.com).
+On aimerait beaucoup entendre vos retours ! Si vous avez des commentaires, ou si vous avez découvert un bug, n'hésitez pas de nous le faire savoir via la page [*issue reports*](https://github.com/RealVNC/raspi-preview/issues) de GitHub. Vous pouvez également nous touitter via [@RealVNC](https://twitter.com/RealVNC) ou nous envoyer un mail via [raspi@realvnc.com](mailto:raspi@realvnc.com).
 
-Thanks for your help. 
+Merci de votre aide. 
