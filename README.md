@@ -1,25 +1,25 @@
-VNC for Raspberry Pi alpha
+VNC version alpha pour Raspberry Pi
 ==========================
 
-[![Minecraft Pi animated GIF](MinecraftPi.gif)](http://www.youtube.com/watch?v=nMhjg7GdRWY "Pi Video")
+[![Minecraft Pi GIF animé](MinecraftPi.gif)](http://www.youtube.com/watch?v=nMhjg7GdRWY "Vidéo Pi")
 
-*Click the above image for more video of Minecraft over VNC.*
+*Cliquez sur l'image ci-dessus pour une vidéo supplémentaire de Minecraft via VNC.*
 
-Thanks for your help testing the VNC for Raspberry Pi alpha! This build contains a whole host of improvements over our [stable  release](https://www.realvnc.com/download/vnc/raspberrypi/), including Minecraft support, the ability to render the Pi's text console, and improved performance on all Pi models. 
+Merci pour votre aide en testant cette version alpha VNC pour Raspberry Pi ! Cette version contient tout un ensemble d'améliorations par rapport à notre [version stable](https://www.realvnc.com/download/vnc/raspberrypi/), y compris support pour Minecraft, la possiblité de restituer le terminal texte du Pi, et des performances améliorées pour tous les modèles du Pi. 
 
-**Download alpha 1 now from [GitHub Releases](https://github.com/RealVNC/raspi-preview/releases/download/5.3.1.18206/VNC-Server-5.3.1-raspi-alpha1.deb)**
+**Télécharger la version alpha 1 maintenant à partir des [Sous-versions GitHub](https://github.com/RealVNC/raspi-preview/releases/download/5.3.1.18206/VNC-Server-5.3.1-raspi-alpha1.deb)**
 
-The alpha is automatically licensed with a [Personal license](https://www.realvnc.com/products/vnc/#versions) when you install it on your Raspberry Pi (but feel free to apply an Enterprise license key of your own for additional features). The alpha license will expire at the end of Jan 2017.
+La version alpha est fournie automatiquement sous [licence Personelle](https://www.realvnc.com/products/vnc/#versions) qaund vous l'installer sur votre Raspberry Pi (mais n'hésitez pas d'y ajouter une clé de "licence Enterprise" vous-même pour des fonctionnalités supplémentaires). La validité de la licence alpha se termine fin Janiver 2017.
 
-As this is an alpha test, you may notice some bugs. A list of [known issues](#knownIssues) and instructions for [leaving feedback](#leavingFeedback) are included at the end of this Readme.
+Puisqu'il s'agit d'un test alpha, vous pourriez éventuellement remarquer quelques anomalies. Une liste de [problèmes connus](#knownIssues) et des instructions pour pouvoir [faire un retour d'expérience](#leavingFeedback) sont inclues à la fin de ce document "*Readme*".
 
-Don't forget you'll need [VNC Viewer](https://www.realvnc.com/download/viewer/) on the device you want to control your Pi from. 
+N'oubliez pas que vous avez besoin du [Client VNC](https://www.realvnc.com/download/viewer/) sur la machine que vous utilisez pour contrôler votre Pi. 
 
-**Note:** You will need to [optimize VNC Viewer](#optimizingVncViewer) to get the best performance from this alpha.
+**Note:** Vous aurez besoin de procéder à une [optimization du client VNC](#optimizingVncViewer) afin de profiter des meilleures performances de cette version alpha.
 
 <a name="releaseNotes"></a>
 
-Release notes
+Notes de Version
 =============
 
 - **NEW:** Minecraft can now be played on the Raspberry Pi over VNC ([Service Mode](#startVnc) only).
