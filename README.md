@@ -1,11 +1,11 @@
-VNC version alpha pour Raspberry Pi
+Version alpha VNC pour Raspberry Pi
 ==========================
 
 [![Minecraft Pi GIF animé](MinecraftPi.gif)](http://www.youtube.com/watch?v=nMhjg7GdRWY "Vidéo Pi")
 
 *Cliquez sur l'image ci-dessus pour une vidéo supplémentaire de Minecraft via VNC.*
 
-Merci pour votre aide en testant cette version alpha VNC pour Raspberry Pi ! Cette version contient tout un ensemble d'améliorations par rapport à notre [version stable](https://www.realvnc.com/download/vnc/raspberrypi/), y compris support pour Minecraft, la possiblité de restituer le terminal texte du Pi, et des performances améliorées pour tous les modèles du Pi. 
+Merci pour votre aide en testant cette version alpha VNC pour Raspberry Pi ! Cette version contient tout un ensemble d'améliorations par rapport à notre [version stable](https://www.realvnc.com/download/vnc/raspberrypi/), y compris support pour Minecraft, la possiblité de restituer à l'écran le terminal texte du Pi, ainsi que des performances améliorées pour tous les modèles du Pi. 
 
 **Télécharger la version alpha 1 maintenant à partir des [Sous-versions GitHub](https://github.com/RealVNC/raspi-preview/releases/download/5.3.1.18206/VNC-Server-5.3.1-raspi-alpha1.deb)**
 
